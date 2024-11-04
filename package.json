@@ -1,0 +1,32 @@
+{
+  "name": "olympusexam_frontend",
+  "version": "1.0.0",
+  "description": "Frontend individual elements, like buttons, inputs, navbars, navtabs, cards or alerts, giving you the freedom of choosing and combining. All components can take variations in color.",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kelvinMORURI/OlympusExam_FrontEnd.git"
+  },
+  "keywords": [
+    "CMT",
+    "400",
+    "Research",
+    "Project"
+  ],
+  "author": "Kelvin Moruri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kelvinMORURI/OlympusExam_FrontEnd/issues"
+  },
+  "homepage": "https://github.com/kelvinMORURI/OlympusExam_FrontEnd#readme",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "^5.0.1"
+  }
+}
